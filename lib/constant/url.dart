@@ -1,0 +1,1 @@
+final baseUrl='https://zoo-animals-api.p.rapidapi.com/';
